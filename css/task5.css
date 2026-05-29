@@ -121,3 +121,12 @@ display: block;
     background-color: blue;
      min-height: 100vh;
 }
+
+.tabs{
+    display: flex;
+}
+
+.tabs div{
+    padding: 20px;
+    border: 1px solid #ccc;
+}

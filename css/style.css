@@ -39,6 +39,7 @@ height: 50px;
 background-color: red;
 color: #ffffff;
 transition: color 0.3s ease; 
+border: none;
 }
 
 button:hover {
